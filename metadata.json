@@ -1,5 +1,5 @@
 {
-  "name": "Cvent Image Batcher",
+  "name": "Cvent-Downloader",
   "description": "A powerful batch image downloader that parses Excel files, normalizes attendee names, and packages photos into structured folders within a ZIP file for easy Cvent uploads.",
   "requestFramePermissions": []
 }
